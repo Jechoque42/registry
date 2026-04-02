@@ -1565,9 +1565,18 @@
       "language": "fr",
       "license": "CC-BY-NC-4.0",
       "sound_count": 39,
+      "total_size_bytes": 6368,
       "source_repo": "Jechoque42/openpeon-claptrap-fr",
       "source_ref": "v1.0.0",
-      "tags": ["gaming", "borderlands", "robot", "french"]
+      "source_path": ".",
+      "manifest_sha256": "f061ad8c5583f1a417e5c00ffd0be49ae15819d117e5ab65b8bcbb9fa4a629c5"
+      "tags": ["gaming", "borderlands", "robot", "french"],
+      "preview_sounds": [
+        "Ah ah ! Je suis vivant !",
+        "Qu'as-tu fait, Sbire ?"
+      ],
+      "added": "2026-04-01",
+      "updated": "2026-04-01"
     },
     {
       "name": "clean_chimes",
